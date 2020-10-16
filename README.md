@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.com/carpentries/workshop-template.svg?branch=gh-pages)](https://travis-ci.com/carpentries/workshop-template)
 
-(fig/engelpalooza_placeholderimage.png?raw=true)
+![the 'use this template' button on GitHub](fig/engelpalooza_placeholderimage.png?raw=true)
 
 # ENGELPALOOZA 2020
 
