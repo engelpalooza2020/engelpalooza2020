@@ -2,7 +2,7 @@
 
 ![the 'use this template' button on GitHub](fig/engelpalooza_placeholderimage.png?raw=true)
 
-# ENGELPALOOZA 2020
+
 
 This repository is The Carpentries' ([Software Carpentry][swc-site], [Data Carpentry][dc-site], and
 [Library Carpentry][lc-site]'s) template for creating websites for workshops.
