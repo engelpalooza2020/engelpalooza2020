@@ -3,6 +3,8 @@ layout: workshop      # DON'T CHANGE THIS.
 # More detailed instructions (including how to fill these variables for an
 # online workshop) are available at
 # https://carpentries.github.io/workshop-template/customization/index.html
+
+![the 'use this template' button on GitHub](fig/engelpalooza_placeholderimage.png?raw=true)
 venue: "FIXME"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
 address: "FIXME"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
 country: "FIXME"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes) for the institution that hosts the workshop
